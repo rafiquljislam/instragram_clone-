@@ -1,5 +1,10 @@
 # Instragram Clone
 
+## live SEE
+```
+https://instragram-41242.web.app/
+```
+
 ### Try your Self
 ```
 git clone
